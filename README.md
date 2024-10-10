@@ -9,3 +9,10 @@ The hausDim function is written by Alceu Ferraz Costa. It is converted to python
 - **Color Space Analysis**: Feature extraction from different color spaces to analyze properties of skin moles.
 - **Statistical Analysis**: Calculate statistical differences between benign and malignant moles based on color characteristics.
 
+## Color Spaces Used
+- HSV (Hue, Saturation, Value)
+- Lab (L*, a*, b*)
+- XYZ (X, Y, Z)
+- YCbCr (Y, Cb, Cr)
+
+  
